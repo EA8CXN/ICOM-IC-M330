@@ -12,6 +12,7 @@ You need a USB to TTL adapter with a diode to perform the conection
 
 ON THE RADIO:
 BLACK WIRE IS GND
+
 GREY WIRE IS DATA
 
 ![Diagram](https://github.com/user-attachments/assets/14a31c7a-ff91-4e5a-901b-bda0423ea958)
